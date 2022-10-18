@@ -19,6 +19,9 @@ public class Account {
     public String getAccName() {
         return accName;
     }
+    public String getAccName() {
+        return accName;
+    }
 
     public void setAccName(String accName) {
         this.accName = accName;
